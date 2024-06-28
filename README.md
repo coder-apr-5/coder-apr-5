@@ -5,7 +5,7 @@
   </h1>
 </p>
 <img align="left" alt="coding" width="400" height="300" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
-<img align="right" alt="coding" breadth="400" width="360" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-apr-5&label=Profile%20views&color=0e75b6&style=flat" alt="coder-apr-5" /> </p>
