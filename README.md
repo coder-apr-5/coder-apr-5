@@ -6,7 +6,7 @@
 </p>
 <img align="left" alt="coding" width="300" height="225" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 <img align="right" alt="coding" breadth="100" width="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
-<img align="center" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif">
+<img align="center" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-apr-5&label=Profile%20views&color=0e75b6&style=flat" alt="coder-apr-5" /> </p>
