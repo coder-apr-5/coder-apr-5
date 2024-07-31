@@ -34,5 +34,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-apr-5&show_icons=true&locale=en&layout=compact" alt="coder-apr-5" /></p> <details>
   <summary>:zap: Github Stats</summary>  
-  <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=coder-apr-5&show_icons=true&locale=en" alt="coder-apr-5" /></p><p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-apr-5&" alt="coder-apr-5" /></p>
+  <p>&nbsp;<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=coder-apr-5&show_icons=true&locale=en" alt="coder-apr-5" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-apr-5&" alt="coder-apr-5" /></p>
 </details>
