@@ -24,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apurba roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba roy" height="30" width="40" /></a>
-
 <a href="https://fb.com/apurba roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba roy" height="30" width="40" /></a>
 <a href="https://instagram.com/_apr_5_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_apr_5_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/(<apr_5>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<apr_5>/profile)" height="30" width="40" /></a>
