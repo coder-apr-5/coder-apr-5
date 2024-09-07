@@ -10,8 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-apr-5&label=Profile%20views&color=0e75b6&style=flat" alt="coder-apr-5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-apr-5" alt="coder-apr-5" /></a> </p>
-
+![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
 - 💬 Ask me about **C,Java,Python,Frontend DEv,React.js**
