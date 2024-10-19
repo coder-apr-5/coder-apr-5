@@ -152,6 +152,8 @@
 <br><br>
 </table>
 
+# Contribution Chart
+![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-apr-5&show_icons=true&locale=en&layout=compact" alt="coder-apr-5" /></p> <details>
   <p align="center">
