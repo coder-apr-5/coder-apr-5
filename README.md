@@ -1,4 +1,4 @@
-[![Masterhead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https;//coder-apr-5.io)
+[![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https;//coder-apr-5.io)
 <p align="center">
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Black&weight=500&center=true&size=31&pause=60&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Apurba+Roy;I'm+a+Computer+Science+Engineer;I'm+a+Web+Developer!;Learning+AI+ML!;Let's+get+started..." alt="Example Usage - README Typing SVG">
