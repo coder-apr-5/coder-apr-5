@@ -13,13 +13,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
-- 💬 Ask me about **C,Java,Python,Frontend DEv,React.js**
+- 💬 Ask me about **C,Java,Python,FullStack Dev**
 
 - 📫 How to reach me **apurbaroy.leo5@gmail.com**
 
 - ⚡ Fun fact **I drink coffee with codes**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/apurba-roy-85b1a82a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba roy" height="30" width="40" /></a>
 <a href="https://fb.com/apurba roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba roy" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 <a href="https://twitter.com/apuxrba_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apuxrba_5" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
