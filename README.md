@@ -155,7 +155,8 @@
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-apr-5&show_icons=true&locale=en&layout=compact" alt="coder-apr-5" /></p> <details>
+<p></div> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div></p> <details>
   <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
