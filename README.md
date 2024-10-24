@@ -86,8 +86,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="Laravel" />
+      <br>Expressjs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
