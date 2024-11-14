@@ -159,7 +159,7 @@
 </div></p> <details>
   <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
 </p>
   <summary>:zap: Github Stats</summary>  
