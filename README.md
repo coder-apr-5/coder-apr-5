@@ -157,12 +157,13 @@
 
 <p></div> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div></p> <details>
+  <summary>:zap: Github Stats</summary>  
   <p align="center">
   <a href="https://github.com/alsiam">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
   </a>
 </p>
-  <summary>:zap: Github Stats</summary>  
+<a> 
   <p align="left">
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></a>
     </a>
