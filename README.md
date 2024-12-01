@@ -9,8 +9,6 @@
 <img align="right" alt="coding" width="400" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-apr-5&label=Profile%20views&color=0e75b6&style=flat" alt="coder-apr-5" /> </p>
-
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
@@ -152,6 +150,12 @@
 </table>
 <br><br>
 </table>
+<div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{coder-apr-5}/count.svg)
+
+</div>
 
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
