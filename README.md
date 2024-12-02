@@ -176,6 +176,8 @@
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></a>
     </a>
 </p>
+  <div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
 <br><br>
 <img height="30" alt="visiting me thank apurba" width="100%" src="gif/welcome.svg" />
 
