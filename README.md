@@ -174,11 +174,8 @@
 </p>
 <a> 
   <p align="left">
-    <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></a>
-    </a>
+    <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%">
   <div align=right>
-  <a href="https://github.com/coder-apr-5"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?username=coder-apr-5&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&icon_color=F8D866" height="200px" width="50.5%" alt="streak stats"/> 
-  </p>
-<br><br>
-
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="200px" width="40.5%" alt="streak stats"/> 
+  </a>
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
