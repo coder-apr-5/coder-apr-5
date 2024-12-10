@@ -24,13 +24,27 @@
 - ⚡ Fun fact **I drink coffee with codes**
 
 # Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/apurba-roy-85b1a82a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurba roy" height="30" width="40" /></a>
-<a href="https://fb.com/apurba roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apurba roy" height="30" width="40" /></a>
-<a href="https://instagram.com/_apr_5_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_apr_5_" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/apurbars65s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<apr_5>/profile)" height="30" width="40" /></a>
-<a href="https://discord.gg/apr_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="apr_5" height="30" width="40" /></a>
-<a href="https://twitter.com/apuxrba_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apuxrba_5" height="30" width="40" /></a>
+
+<div align="center">
+<a href="https://twitter.com/Abhishe08346491" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/apurba-roy-85b1a82a4" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.discord.com/apr_5/" target="_blank">
+<img src=https://img.shields.io/badge/discord-%A888B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Apuxrba.5/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/_apr_5_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+<a href = "mailto:apurbaroy.leo5@gmail.com" target = "_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div
 </p>
 
 # Languages and Tools
