@@ -15,6 +15,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <br>
+<img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
