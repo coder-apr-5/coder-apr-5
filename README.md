@@ -29,12 +29,14 @@
 
 - Open Source Contributor **@Gssoc'24**
 
+- Ex- Microsoft Learn Student Ambasaddor
+
 - Collab with my Projects? **Connect with me**
 
 
 # Connect with me
 
-<div align="left">
+<div align="center">
 <a href="https://twitter.com/Abhishe08346491" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -47,7 +49,6 @@
 <a href = "https://profile.codersrank.io/user/coder-apr-5/" target = "_blank">
 <img src="https://img.shields.io/badge/codersrank-D14836?&style=for-the-badge&logo=codersrank&logoColor=white" />
 </a>
-<div align="right">
 <a href="https://www.geeksforgeeks.org/user/apurbars65s/" target="_blank">
 <img src=https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
 </a> 
