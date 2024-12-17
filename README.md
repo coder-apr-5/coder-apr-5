@@ -9,7 +9,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
-# Who Am I?:
+# Who Am I?
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <h3 align="center">✨ My interests:</h3>
