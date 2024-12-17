@@ -32,7 +32,7 @@
 
 - Ex- Microsoft Learn Student Ambasaddor
 
-- In Search of Major Interships
+- In Search of Major Internships
 
 - Collab with my Projects? **Connect with me**
 
