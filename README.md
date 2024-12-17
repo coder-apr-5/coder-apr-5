@@ -32,6 +32,8 @@
 
 - Ex- Microsoft Learn Student Ambasaddor
 
+- In Search of Major Interships
+
 - Collab with my Projects? **Connect with me**
 
 
