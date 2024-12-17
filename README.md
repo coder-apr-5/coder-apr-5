@@ -15,6 +15,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <br>
+
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
 - 💬 Ask me about **C,Java,Python,FullStack Dev**
@@ -22,6 +23,13 @@
 - 📫 How to reach me **apurbaroy.leo5@gmail.com**
 
 - ⚡ Fun fact **I drink coffee with codes**
+
+- **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
+
+- Open Source Contributor **@Gssoc'24**
+
+- Collab with my Projects? **Connect with me**
+
 
 # Connect with me
 
@@ -35,6 +43,12 @@
 <a href="https://discord.com/channels/@me" target="_blank">
 <img src=https://img.shields.io/badge/discord-%A888B5.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
+<a href = "https://profile.codersrank.io/user/coder-apr-5/" target = "_blank">
+<img src="https://img.shields.io/badge/codersrank-D14836?&style=for-the-badge&logo=codersrank&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/apurbars65s/" target="_blank">
+<img src=https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
+</a> 
 <a href="https://www.facebook.com/Apxrba.R5" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
