@@ -9,12 +9,13 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
+# ABOUT MYSELF:
+
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <h3 align="center">✨ My interests:</h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Data+Science" width="auto" height="35"/>
 </p>
-<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
-<br>
 <img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
