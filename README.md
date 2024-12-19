@@ -199,17 +199,20 @@
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
-<p></div> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div></p> <details>
+<details>
   <summary>:zap: Github Stats</summary>  
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
   </a>
 </p>
+  <div align=left>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="47.5%" alt="streak stats"/> </div>
+  <div> <img width=350px align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div> 
 <a> 
+  <p>
   <div align="left">
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></div>
-  <div align=right>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%" alt="streak stats"/> </div>
+    </p>
   </a>
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
