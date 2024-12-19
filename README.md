@@ -206,9 +206,10 @@
   </a>
 </p>
   <div align=left>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="47.5%" alt="streak stats"/> </div>
-  <div> <img width=350px align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <div> <img width=300px align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="47.5%" alt="streak stats"/> </div>
+   <p><img align="right" width=350px src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder-apr-5&theme=aura" alt="coder-apr-5" /></p>
 <a> 
   <p>
   <div align="left">
