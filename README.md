@@ -206,7 +206,7 @@
   </a>
 </p>
   <div align=left>
-    <div> <img width=300px align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=coder-apr-5&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <div> <img width=325px align="right" href="https://github.com/dqwe22coder-apr-5" alt="Apurba's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coder-apr-5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </div> 
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="47.5%" alt="streak stats"/> </div>
    <p><img align="right" width=350px src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder-apr-5&theme=aura" alt="coder-apr-5" /></p>
@@ -216,4 +216,5 @@
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></div>
     </p>
   </a>
+    <img height="30" alt="visiting me thank iruka" width="100%" src="gif/welcome.svg" />
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
