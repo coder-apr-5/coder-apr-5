@@ -206,7 +206,7 @@
   </a>
 </p>
   <div align=left>
-    <div> <img width=325px align="right" href="https://github.com/dqwe22coder-apr-5" alt="Apurba's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coder-apr-5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <div> <img width=320px align="right" href="https://github.com/dqwe22coder-apr-5" alt="Apurba's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coder-apr-5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </div> 
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=coder-apr-5&count_private=true&theme=react&border_color=F85D7F&icon_color=F8D866" height="200px" width="47.5%" alt="streak stats"/> </div>
    <p><img align="right" width=350px src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder-apr-5&theme=aura" alt="coder-apr-5" /></p>
