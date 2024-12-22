@@ -198,6 +198,7 @@
 
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
+# More Details
 
 <details>
   <summary>:zap: Github Stats</summary>  
