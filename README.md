@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Apurba+Roy;I'm+a+Computer+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
-<img align="left" alt="coding" width="258" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
-<img align="center" alt="coding" width="262" height="300" src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif">
-<img align="right" alt="coding" width="260" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<img align="left" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
+<img align="right" alt="coding" width="400" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
@@ -205,7 +204,7 @@
   <summary>:zap: Github Stats</summary>  
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
-  </a>
+    <img src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif"/>
 </p>
   <div align=left>
     <div> <img width=320px align="right" href="https://github.com/dqwe22coder-apr-5" alt="Apurba's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coder-apr-5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
