@@ -193,6 +193,8 @@
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{coder-apr-5}/count.svg)
+    <img src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif"/>
+
 
 </div>
 
@@ -204,7 +206,6 @@
   <summary>:zap: Github Stats</summary>  
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
-    <img src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif"/>
 </p>
   <div align=left>
     <div> <img width=320px align="right" href="https://github.com/dqwe22coder-apr-5" alt="Apurba's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=coder-apr-5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
