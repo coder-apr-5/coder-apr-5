@@ -193,8 +193,6 @@
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{coder-apr-5}/count.svg)
-    <img src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif"/>
-
 
 </div>
 
