@@ -5,8 +5,8 @@
   </h1>
 </p>
 <img align="left" alt="coding" width="266" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
-<img align="center" alt="coding" width="266" height="300" src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif">
-<img align="right" alt="coding" width="266" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<img align="center" alt="coding" width="280" height="300" src="https://media.tenor.com/eQwO6O3VKfAAAAAM/angry-typing.gif">
+<img align="right" alt="coding" width="288" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
