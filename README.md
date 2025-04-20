@@ -113,8 +113,8 @@
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
+      <br>Springboot
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
@@ -144,8 +144,8 @@
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity"width="40" height="40" alt="unity" />
-      <br>unity
+        <img src= "https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="unity" />
+      <br>Nextjs
     </td>
   </tr>
  <tr>
