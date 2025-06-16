@@ -18,13 +18,15 @@
 </p>
 <img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 🌱 I’m currently learning **DSA,AI & ML,Database**
+- 🌱 I’m currently learning **DSA,AI & ML, DBMS**
 
-- 💬 Ask me about **C,Java,Python,FullStack Dev**
+- 💬 Ask me about **C,Java, Python, FullStack Dev**
 
 - 📫 How to reach me **apurbaroy.leo5@gmail.com**
 
 - ⚡ Fun fact **I drink coffee with codes**
+
+- My Wholesome meme "Be a Flowchart, not a Dietchart"
 
 - **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
 
