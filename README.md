@@ -54,8 +54,8 @@
 <a href = "https://profile.codersrank.io/user/coder-apr-5/" target = "_blank">
 <img src="https://img.shields.io/badge/codersrank-D14836?&style=for-the-badge&logo=codersrank&logoColor=white" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/apurbars65s/" target="_blank">
-<img src=https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=geeksforgeeks style="margin-bottom: 5px;" />
+<a href="https://www.leetcode.com/u/50VL5Hlv29/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.facebook.com/Apxrba.R5" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
