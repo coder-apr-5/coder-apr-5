@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Apurba+Roy;I'm+a+Computer+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
-<img align="left" alt="coding" width="400" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
+<img align="left" alt="coding" width="450" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 <img align="right" alt="coding" width="400" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
-![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
 
 # Who Am I?
 
-<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <h3 align="center">✨ My interests:</h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Data+Science" width="auto" height="35"/>
