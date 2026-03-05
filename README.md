@@ -200,7 +200,7 @@
 
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
-# More Details
+# GitHub Stats
   
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
