@@ -201,9 +201,7 @@
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 # More Details
-
-<details>
-  <summary>:zap: Github Stats</summary>  
+  
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-apr-5&theme=radical" alt="Apurba's GitHub Contribution"/>
 </p>
@@ -218,5 +216,11 @@
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></div>
     </p>
   </a>
-    <img height="30" alt="visiting me thank iruka" width="100%" src="gif/welcome.svg" />
+    
+# :fountain_pen: Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+> [!CAUTION]
+> Don't Leave My GitHub Profile Without Giving :star: In The Repositories.
+<img height="30" alt="visiting me thank iruka" width="100%" src="gif/welcome.svg" />
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
