@@ -29,7 +29,7 @@
 
 - **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
 
-- Open Source Contributor **@Gssoc'24**
+- Open Source Contributor 
 
 - Ex- Microsoft Learn Student Ambasaddor
 
