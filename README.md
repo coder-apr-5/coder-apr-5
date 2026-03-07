@@ -17,21 +17,21 @@
 </p>
 <img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 🌱 I’m currently learning **DSA,AI & ML, DBMS**
+- 🌱 I’m currently learning **DevOps & Deep Learning**
 
-- 💬 Ask me about **C,Java, Python, FullStack Dev**
+- 💬 Ask me about **Java, Python, APIs & other FullStack Dev**
 
 - 📫 How to reach me **apurbaroy.leo5@gmail.com**
 
 - ⚡ Fun fact **I drink coffee with codes**
 
+- Preferred Language for DSA Grind: **JAVA**
+
 - My Wholesome meme "Be a Flowchart, not a Dietchart"
 
 - **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
 
-- Open Source Contributor 
-
-- Ex- Microsoft Learn Student Ambasaddor
+- Open Source Contributor **Since 2024 - Present**
 
 - In Search of **Major Internships**
 
@@ -88,8 +88,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>Typescript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
@@ -168,8 +168,8 @@
       <br>VsCode
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="WordPress" />
+      <br>RestAPI
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
