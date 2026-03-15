@@ -4,8 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Apurba+Roy;I'm+a+Computer+Science+Engineer;I'm+a+Web+-+MERN+Developer!;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
-<img align="left" alt="coding" width="400" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
+<img align="left" alt="coding" width="450" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZqZWVzMDVpa3g2NWw0bWozbjZjYTBnZWJzeXE5bHdnenI5cngzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp">
 <img align="right" alt="coding" width="400" height="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
+
+![](https://github-profile-trophy.vercel.app/?username=coder-apr-5&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
 
@@ -37,6 +41,7 @@
 
 - Collab with my Projects? **Connect with me**
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
 
 # Connect with me
 
@@ -67,6 +72,8 @@
 </a>
 </div
 </p>
+
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
 
 # Languages and Tools
 <table>
@@ -197,8 +204,13 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
+
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=coder-apr-5&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
+
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
+
 # GitHub Stats
   
   <p align="center">
@@ -215,8 +227,11 @@
     <a href="https://github.com/coder-apr-5"><img alt="Apurba's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=coder-apr-5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></div>
     </p>
   </a>
+
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">
     
 # :fountain_pen: Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 > [!CAUTION]
